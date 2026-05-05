@@ -11,4 +11,4 @@ A lightweight tool designed to inspect, analyze, and extract insights from syste
 Understanding systems requires observing behavior, not just structure.
 
 ## Status
-Work in progress
+Work in progress.
